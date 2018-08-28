@@ -1,4 +1,4 @@
-# Code for Forecasting Passenger Flows at Heathrow
+## Code for Forecasting Transfer Passenger Flows at Heathrow
 
 This code is used in our paper "Forecasting Airport Passenger Flows Using Real-Time Data and Machine Learning". In collaboration with Heathrow airport, we develop a predictive system that generates quantile forecasts of transferring passengers' connection times, and the number of passengers arriving at the immigrating and security areas.
 
